@@ -1,0 +1,15 @@
+.light-text {
+background-color: rgb(230, 121, 121);
+font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.bigger-text{
+    font-size: 24px;
+}
+#title1{
+    color:hsl(245, 86%, 50%);font-size:36px;
+}
+#title2{
+    background-color: hsl(133, 87%, 50%);
+    font-size: 28px;
+    font-weight: bold;
+}
